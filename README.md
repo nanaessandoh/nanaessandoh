@@ -19,7 +19,7 @@
 <br />
 
 ### About Me 🚀
-😁 I’m a full stack developer currently living in the GTA. </br>
+😁 I’m a full stack developer currently living and working in the GTA. </br>
 🌐 I am passionate about web dev & I enjoy learning new things. </br>
 
 
