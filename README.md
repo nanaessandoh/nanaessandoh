@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="9px" height="9px">, I'm [Nana Essandoh!](https://www.linkedin.com/in/nanaessandoh/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="18px" height="18px">, I'm [Nana Essandoh!](https://www.linkedin.com/in/nanaessandoh/) 
 
 
 <a href="https://www.linkedin.com/in/nanaessandoh/">
