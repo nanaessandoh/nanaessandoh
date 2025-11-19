@@ -19,23 +19,21 @@
 <br />
 
 ### About Me 🚀
-😁 I’m a full stack developer currently living and working in the GTA. </br>
-🌐 I am passionate about web dev & I enjoy learning new things. </br>
+😁 I’m a full-stack developer currently living and working in the GTA. </br>
+🌐 I am passionate about web development & I enjoy learning new things. </br>
 
 
 #### A little more about me
 ```javascript
 const nana = {
-  code: ["C#", "JavaScript", "TypeScript" "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "Fullstack"],
+  askMeAbout: ["Fullstack developement", "Microservices", "Docker", "Kubernetes"],
   technologies: {
-      frontend: ["HTML", "CSS", "JS/TS", "Bootstrap", "Material UI"],
+      frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Bootstrap", "Material UI"],
       backend: [".Net", "Node JS"],
   }
 }
 ```
 
-![Nana's github stats](https://github-readme-stats.vercel.app/api?username=nanaessandoh&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Nana's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nanaessandoh&layout=compact&langs_count=8&hide_border=true)
 <br />
 <br />
