@@ -28,7 +28,7 @@
 const nana = {
   askMeAbout: ["Full-stack development", "Microservices", "Docker", "Kubernetes"],
   technologies: {
-      frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Bootstrap", "Material UI"],
+      frontend: ["HTML", "CSS", "JS/TS", "React", "Bootstrap", "Material UI"],
       backend: [".Net", "Node JS"],
   }
 }
