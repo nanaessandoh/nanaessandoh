@@ -26,7 +26,7 @@
 #### A little more about me
 ```javascript
 const nana = {
-  askMeAbout: ["Fullstack developement", "Microservices", "Docker", "Kubernetes"],
+  askMeAbout: ["Full-stack development", "Microservices", "Docker", "Kubernetes"],
   technologies: {
       frontend: ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Bootstrap", "Material UI"],
       backend: [".Net", "Node JS"],
@@ -37,10 +37,13 @@ const nana = {
 ![Nana's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nanaessandoh&layout=compact&langs_count=8&hide_border=true)
 <br />
 <br />
+![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nanaessandoh)
+<br />
+<br />
 
 #### Random dev joke for you 😊
 <a><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-
 <!--
+![Visitors since 12 Dec 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=QuinntyneBrown&repo=nanaessandoh&countColor=%237B1E7A)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nanaessandoh)
 -->
